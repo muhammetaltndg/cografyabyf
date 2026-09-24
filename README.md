@@ -1,1 +1,1 @@
-BİLSEM BYF Cografya oyunudur.
+BİLSEM BYF programı için oyundur.
